@@ -10,7 +10,7 @@
 
 <!-- NAVBAR -->
 <nav class="navbar">
-    <h2 class="logo">ToyKuni 🧸</h2>
+    <h2 class="logo">ToyKuni </h2>
     <div>
         <a href="index.php">Home</a>
         <a href="login.php">Login</a>

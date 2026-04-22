@@ -35,7 +35,7 @@ $product = mysqli_fetch_assoc($result);
 <body>
 
 <nav class="navbar">
-    <h2>Edit Product 🛠️</h2>
+    <h2>Edit Product </h2>
     <div>
         <a href="/toy-kuni-client/admin/dashboard.php">Dashboard</a>
     </div>

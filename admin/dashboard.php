@@ -12,13 +12,13 @@ if(!isset($_SESSION['role']) || $_SESSION['role'] != "admin"){
 <html>
 <head>
     <title>Admin Dashboard</title>
-    <link rel="stylesheet" href="/A/style.css">
+    <link rel="stylesheet" href="/toy-kuni-client/style.css">
 </head>
 <body>
 
 <!-- NAVBAR -->
 <nav class="navbar">
-    <h2>Admin Panel 🧑‍💼</h2>
+    <h2>Admin Panel </h2>
     <div>
         <a href="/toy-kuni-client/index.php">Home</a>
         <a href="add_product.php">Add Product</a>

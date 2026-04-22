@@ -18,7 +18,7 @@ $user_id = $_SESSION['user_id'];
 <body>
 
 <nav class="navbar">
-    <h2>Your Cart 🛒</h2>
+    <h2>Your Cart </h2>
     <div>
         <a href="index.php">Home</a>
     </div>

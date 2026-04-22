@@ -14,13 +14,13 @@ if($_SESSION['role'] != "admin"){
     <title>Add Product - Admin</title>
 
     <!-- FIXED CSS PATH -->
-    <link rel="stylesheet" href="/A/style.css">
+    <link rel="stylesheet" href="/toy-kuni-client/style.css">
 </head>
 <body>
 
 <!-- NAVBAR -->
 <nav class="navbar">
-    <h2 class="logo">Admin Panel 🧑‍💼</h2>
+    <h2 class="logo">Admin Panel </h2>
     <div>
         <a href="/toy-kuni-client/admin/dashboard.php">Dashboard</a>
         <a href="/toy-kuni-client/index.php">Home</a>
