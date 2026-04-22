@@ -24,7 +24,7 @@ include("db.php");
                 <a href="/toy-kuni-client/admin/dashboard.php">Dashboard</a>
             <?php } ?>
 
-            <a href="/toy-kuni-client/cart_view.php">Cart 🛒</a>
+            <a href="/toy-kuni-client/cart_view.php">Cart </a>
             <a href="logout.php">Logout</a>
 
         <?php } else { ?>
@@ -37,7 +37,7 @@ include("db.php");
 <!-- HERO -->
 <section class="hero">
     <h1>Welcome to ToyKuni</h1>
-    <p>A magical universe of toys ✨</p>
+    <p>A magical universe of toys </p>
 </section>
 
 <!-- PRODUCTS -->
